@@ -1,0 +1,14 @@
+var _path;
+function _extends() { _extends = Object.assign ? Object.assign.bind() : function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; }; return _extends.apply(this, arguments); }
+import * as React from "react";
+var SvgInfoIcon = function SvgInfoIcon(props) {
+  return /*#__PURE__*/React.createElement("svg", _extends({
+    xmlns: "http://www.w3.org/2000/svg",
+    viewBox: "0 0 512 512",
+    width: 15,
+    height: 15
+  }, props), _path || (_path = /*#__PURE__*/React.createElement("path", {
+    d: "M256 40a216 216 0 1 1 0 432 216 216 0 0 1 0-432m0-32a248 248 0 1 0 0 496 248 248 0 0 0 0-496zm-11.5 120h23a12 12 0 0 1 12 12.5l-7 168a12 12 0 0 1-12 11.5h-9a12 12 0 0 1-12-11.5l-7-168a12 12 0 0 1 12-12.5zM256 340a28 28 0 1 0 0 56 28 28 0 0 0 0-56z"
+  })));
+};
+export default SvgInfoIcon;
