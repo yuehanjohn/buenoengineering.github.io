@@ -1,1 +1,0 @@
-export const DEFAULT_STATUS_CODE = 200
