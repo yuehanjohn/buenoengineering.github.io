@@ -2159,7 +2159,7 @@ textarea.w-select {
 :root {
     --body-font: #5d6066;
     --heading-main-color: #022a5b;
-    --pale-yellow: #ffbb5c;
+    --pale-yellow: #99ccff;
     --transparent: transparent;
     --white: white;
     --light-white: rgba(255, 255, 255, .7);
@@ -4229,7 +4229,7 @@ blockquote {
 }
 
 .margin-top-zero.color-yellow {
-    color: #ffbb5c;
+    color: #99ccff;
 }
 
 .margin-top-zero.blog-news-text-heading {
@@ -4770,7 +4770,7 @@ blockquote {
 .button-main {
     height: 54px;
     color: var(--heading-color);
-    background-color: rgba(0, 0, 0, 0);
+    background-color: rgba(255, 255, 255, 0);
     border: 1px solid rgba(0, 0, 0, 0);
     justify-content: flex-start;
     align-items: center;
@@ -5238,7 +5238,7 @@ blockquote {
 .accodian-arrow-line {
     width: 35px;
     height: 35px;
-    border: 1px solid #ffbb5c;
+    border: 1px solid #99ccff;
     border-radius: 100%;
     flex-direction: column;
     flex: none;
@@ -5306,7 +5306,7 @@ blockquote {
 .table-bg-gradient-light {
     width: 100%;
     height: 0%;
-    background-image: linear-gradient(to right, rgba(255, 187, 92, .5), #ffbe63 0%, #fff);
+    background-image: linear-gradient(to right, rgba(89, 123, 169, .5), #99ccff 0%, #fff);
 }
 
 .row-tabs {
@@ -5593,7 +5593,7 @@ blockquote {
 }
 
 .home-three-project-img-block {
-    color: #ffbb5c;
+    color: #99ccff;
     text-transform: uppercase;
     flex: 1;
     justify-content: center;
@@ -5623,7 +5623,7 @@ blockquote {
 .home-three-key-circle {
     width: 12px;
     height: 12px;
-    background-color: #ffbb5c;
+    background-color: #99ccff;
     border-radius: 100%;
 }
 
@@ -5674,7 +5674,7 @@ blockquote {
 .number-img-bg-inner {
     width: 200px;
     height: 200px;
-    color: #ffbb5c;
+    color: #99ccff;
     background-image: url("https://assets-global.website-files.com/6514fcb62305724bd718a07d/65268966afe073529a480cdb_Number-Circle.webp");
     background-position: 50%;
     background-repeat: no-repeat;
@@ -5940,7 +5940,7 @@ blockquote {
 }
 
 .about-two-counter-heading {
-    color: #ffbb5c;
+    color: #99ccff;
     margin-bottom: 20px;
     font-family: Open Sans, sans-serif;
     font-size: 2.5rem;
@@ -6307,7 +6307,7 @@ blockquote {
 .about-testimonial-left-arrow {
     width: 60px;
     height: 60px;
-    background-color: #ffbb5c;
+    background-color: #99ccff;
     border-radius: 100%;
     flex-direction: column;
     justify-content: center;
@@ -6344,7 +6344,7 @@ blockquote {
 .about-testimonial-right-arrow {
     width: 60px;
     height: 60px;
-    background-color: #ffbb5c;
+    background-color: #99ccff;
     border-radius: 100%;
     flex-direction: column;
     justify-content: center;
@@ -6592,7 +6592,7 @@ blockquote {
 .about-one-mission-flex-block:hover {
     background-color: #fff;
     border-color: #fff;
-    box-shadow: 14px 14px 0 -1px #ffbb5c;
+    box-shadow: 14px 14px 0 -1px #99ccff;
 }
 
 .about-one-values-left {
@@ -6730,7 +6730,7 @@ blockquote {
 }
 
 .oil-text {
-    color: #ffbb5c;
+    color: #99ccff;
 }
 
 .learn-more-paragraph-block {
@@ -6810,7 +6810,7 @@ blockquote {
 }
 
 .color-yellow {
-    color: #ffbb5c;
+    color: #99ccff;
 }
 
 .service-one-counter-text {
@@ -7030,7 +7030,7 @@ blockquote {
 }
 
 .energy-landscape-img-two:hover {
-    box-shadow: -14px 14px 0 -1px #ffbb5c;
+    box-shadow: -14px 14px 0 -1px #99ccff;
 }
 
 .service-one-together-one {
@@ -7263,7 +7263,7 @@ blockquote {
 .table-bg-top {
     width: 100%;
     height: 0;
-    background-color: rgba(255, 187, 92, .2);
+    background-color: rgba(89, 123, 169, .2);
 }
 
 .service-one-featured-section {
@@ -7441,7 +7441,7 @@ blockquote {
 
 .contact-one-form-submit-btn {
     color: #060f1a;
-    background-color: #ffbb5c;
+    background-color: #99ccff;
     padding: 19px 34px;
     font-size: .9375rem;
     font-weight: 500;
@@ -7600,7 +7600,7 @@ blockquote {
 }
 
 .contact-two-details-right {
-    background-color: #ffbb5c;
+    background-color: #99ccff;
     border-radius: 20px;
     flex: 1;
     padding: 15px 40px 40px;
@@ -8049,7 +8049,7 @@ blockquote {
 }
 
 .overflow-none.border-radius-twenty.award-hero-image-one:hover {
-    box-shadow: 14px 14px 0 -1px #ffbb5c;
+    box-shadow: 14px 14px 0 -1px #99ccff;
 }
 
 .overflow-none.award-hero-heading-wrap {
@@ -8095,7 +8095,7 @@ blockquote {
     grid-column-gap: 15px;
     grid-row-gap: 15px;
     color: #000;
-    background-color: #ffbb5c;
+    background-color: #99ccff;
     border-radius: 50px;
     padding: 5px 25px;
 }
@@ -8295,7 +8295,7 @@ blockquote {
     width: 100%;
     max-width: 390px;
     color: #060f1a;
-    background-color: #ffbb5c;
+    background-color: #99ccff;
     padding: 19px 34px;
     font-size: .9375rem;
     font-weight: 500;
@@ -8570,7 +8570,7 @@ blockquote {
 
 .popular-casses-link {
     grid-column-gap: 8px;
-    color: #ffbb5c;
+    color: #99ccff;
     text-transform: uppercase;
     align-items: center;
     font-size: .875rem;
@@ -8774,7 +8774,7 @@ blockquote {
 }
 
 .experties-details-image-block:hover {
-    box-shadow: -15px -14px 0 -1px #ffbb5c;
+    box-shadow: -15px -14px 0 -1px #99ccff;
 }
 
 .experties-details-heading {
@@ -8850,7 +8850,7 @@ blockquote {
 }
 
 .management-background-overlay {
-    background-color: #ffbb5c;
+    background-color: #99ccff;
     position: absolute;
     top: 0%;
     bottom: 0%;
@@ -9092,7 +9092,7 @@ blockquote {
 .accordion-item-trigger {
     grid-column-gap: 30px;
     cursor: pointer;
-    background-color: #ffbb5c;
+    background-color: #99ccff;
     border-bottom: 1px solid #000;
     align-items: center;
     padding: 30px;
@@ -9370,7 +9370,7 @@ blockquote {
 
 .overlay-hover {
     z-index: 1;
-    background-color: #ffbb5c;
+    background-color: #99ccff;
     position: absolute;
     top: 0%;
     bottom: 0%;
@@ -9905,7 +9905,7 @@ blockquote {
 }
 
 .blog-two-news-block:hover {
-    background-color: rgba(255, 187, 92, .1);
+    background-color: rgba(89, 123, 169, .1);
 }
 
 .blog-three-hero {
@@ -10270,7 +10270,7 @@ blockquote {
 .style-guide-icon-wrap {
     width: 76px;
     height: 76px;
-    background-color: #ffbb5c;
+    background-color: #99ccff;
     border-radius: 15px;
     justify-content: center;
     align-items: center;
@@ -10289,7 +10289,7 @@ blockquote {
 }
 
 .style-color-wrapper.secondary-color-one {
-    background-color: #ffbb5c;
+    background-color: #99ccff;
 }
 
 .style-color-wrapper.color-type-one {
@@ -10833,7 +10833,7 @@ blockquote {
     color: #484848;
     letter-spacing: -.03125rem;
     background-color: rgba(51, 51, 51, 0);
-    border-left: 3px solid #ffbb5c;
+    border-left: 3px solid #99ccff;
     padding-top: 25px;
     padding-bottom: 25px;
     font-size: 1.375rem;
@@ -10986,7 +10986,7 @@ blockquote {
     height: 157px;
     min-height: 157px;
     min-width: 157px;
-    border: 6px solid #ffbb5c;
+    border: 6px solid #99ccff;
     border-radius: 100%;
 }
 
@@ -11496,7 +11496,7 @@ blockquote {
 .work-pogress-yellow-line {
     z-index: 1;
     width: 0%;
-    border-bottom: 1px dashed #ffbb5c;
+    border-bottom: 1px dashed #99ccff;
     position: absolute;
     top: 50%;
     left: 0;
@@ -11551,7 +11551,7 @@ blockquote {
 .about-three-mission-card-heading-line {
     width: 32px;
     height: 1px;
-    background-color: #ffbb5c;
+    background-color: #99ccff;
 }
 
 .work-pogress-bar-card-image-wrap {
@@ -11696,7 +11696,7 @@ blockquote {
 
 .product-card-overlay {
     z-index: -1;
-    background-color: #ffbb5c;
+    background-color: #99ccff;
     align-items: flex-end;
     position: absolute;
     top: 0%;
@@ -11800,7 +11800,7 @@ blockquote {
 }
 
 .contact-three-contain-box {
-    border-left: 10px solid #ffbb5c;
+    border-left: 10px solid #99ccff;
     margin-top: 76px;
     padding-left: 30px;
 }
@@ -12614,7 +12614,7 @@ blockquote {
         left: -28px;
     }
     .about-one-values-section {
-        background-image: radial-gradient(circle farthest-corner at 100% 70%, rgba(255, 187, 92, .15), var(--transparent) 19%), radial-gradient(circle farthest-corner at 0% 60%, rgba(60, 145, 230, .15), var(--transparent) 23%);
+        background-image: radial-gradient(circle farthest-corner at 100% 70%, rgba(89, 123, 169, .15), var(--transparent) 19%), radial-gradient(circle farthest-corner at 0% 60%, rgba(60, 145, 230, .15), var(--transparent) 23%);
     }
     .about-one-learn-more-section {
         background-position: -64% 20%;
@@ -12852,7 +12852,7 @@ blockquote {
         left: 65px;
     }
     .about-three-hero {
-        background-image: radial-gradient(circle farthest-corner at 100% 50%, rgba(60, 145, 230, .15), var(--transparent) 14%), radial-gradient(circle farthest-corner at 0% 40%, rgba(255, 187, 92, .2), var(--transparent) 16%);
+        background-image: radial-gradient(circle farthest-corner at 100% 50%, rgba(60, 145, 230, .15), var(--transparent) 14%), radial-gradient(circle farthest-corner at 0% 40%, rgba(89, 123, 169, .2), var(--transparent) 16%);
     }
     .contact-three-form {
         background-position: 134% 9%, -44% 0;
@@ -13702,14 +13702,14 @@ blockquote {
         padding: 20px 20px 10px;
     }
     .about-one-mission-flex-block:hover {
-        box-shadow: 11px 11px 0 -1px #ffbb5c;
+        box-shadow: 11px 11px 0 -1px #99ccff;
     }
     .about-one-values-section {
         padding-top: 70px;
         padding-bottom: 100px;
     }
     .about-one-values-left-img:hover {
-        box-shadow: -10px 11px 0 -1px #ffbb5c;
+        box-shadow: -10px 11px 0 -1px #99ccff;
     }
     .about-one-values-block {
         width: 94%;
@@ -15028,7 +15028,7 @@ blockquote {
         padding-bottom: 103px;
     }
     .about-one-values-left-img:hover {
-        box-shadow: -8px 9px 0 -1px #ffbb5c;
+        box-shadow: -8px 9px 0 -1px #99ccff;
     }
     .about-one-our-values-flex {
         margin-top: 85px;
