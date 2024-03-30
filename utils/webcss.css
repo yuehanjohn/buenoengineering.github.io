@@ -1043,6 +1043,13 @@ textarea.w-select {
     }
 }
 
+.round-img {
+    border-radius: 50%;
+    width: 161px;
+    height: 161px;
+    object-fit: cover;
+}
+
 .w-widget {
     position: relative;
 }
